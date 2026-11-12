@@ -1,0 +1,10 @@
+{
+  "description": "为医生提供打造亲切专业社媒账号的实用指南，涵盖内容创作、账号运营、合规答疑与热门选题灵感。",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
